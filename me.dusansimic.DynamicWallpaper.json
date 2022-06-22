@@ -32,8 +32,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/dusansimic/dynamic-wallpaper",
-                    "tag" : "0.0.2",
-                    "commit" : "cfbda706fb9fdd92022c7015baad4d8af0236ba2"
+                    "tag" : "0.0.3",
+                    "commit" : "b5edf84517063aa5c6d132f01abf6ffa9a9e19b0"
                 }
             ]
         }

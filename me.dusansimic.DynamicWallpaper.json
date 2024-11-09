@@ -1,7 +1,7 @@
 {
     "app-id": "me.dusansimic.DynamicWallpaper",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "45",
+    "runtime-version": "47",
     "sdk": "org.gnome.Sdk",
     "command": "me.dusansimic.DynamicWallpaper",
     "finish-args": [
@@ -47,13 +47,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/dusansimic/dynamic-wallpaper",
-                    "tag": "0.1.0",
-                    "commit": "c9e2e1dcdacf7430a1d450849d2d8eb7daf8804d",
-                    "x-checker-data": {
-                        "type": "git",
-                        "tag-pattern": "^([\\d.]+)$",
-                        "version-scheme": "semantic"
-                    }
+                    "commit": "788b99061ebbccc04502320b49cb442d3f20193e"
                 }
             ]
         }

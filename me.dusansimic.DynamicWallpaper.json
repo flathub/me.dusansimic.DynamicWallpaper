@@ -1,7 +1,7 @@
 {
     "app-id": "me.dusansimic.DynamicWallpaper",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "49",
+    "runtime-version": "51",
     "sdk": "org.gnome.Sdk",
     "command": "me.dusansimic.DynamicWallpaper",
     "finish-args": [
@@ -11,17 +11,6 @@
         "--socket=wayland",
         "--filesystem=xdg-data/backgrounds:create",
         "--filesystem=xdg-data/gnome-background-properties:create"
-    ],
-    "cleanup": [
-        "/include",
-        "/lib/pkgconfig",
-        "/man",
-        "/share/doc",
-        "/share/gtk-doc",
-        "/share/man",
-        "/share/pkgconfig",
-        "*.la",
-        "*.a"
     ],
     "modules": [
         {
